@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @diezeldev
-- 👀 I’m interested in TypeScript
-- 🔧 I want to build bots
+👋 Hi, I’m @diezeldev
+👀 I’m interested in TypeScript
+🔧 I want to build bots
 
 <!---
 diezeldev/diezeldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
